@@ -2,6 +2,8 @@
 
 A travel planning application that helps you organize your trips, discover new places, and create detailed itineraries. Maple is your personal travel assistant, designed to make your journeys seamless and memorable.
 
+As seen on https://ai.google.dev/competition/projects/maple
+
 ## Features
 
 -   **Trip Planning:** Create and manage your trips, including dates, destinations, and activities.
